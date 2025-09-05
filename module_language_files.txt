@@ -1,0 +1,136 @@
+moduleName=BaseContactManager
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseContactManager/src/buildconfig/etc/properties/i18n/en/i18n_cm.properties
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseContactManager/src/buildconfig/etc/properties/i18n/en/i18n_lp.properties
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseContactManager/src/buildconfig/etc/properties/i18n/en/i18n_mp.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseContactManager/src/web/javascript/lang/en/en_cm.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseContactManager/src/web/javascript/lang/en/en_lp.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseContactManager/src/web/javascript/lang/en/en_mp.js
+
+moduleName=BaseFinancials
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseFinancials/src/buildconfig/etc/properties/i18n/en/i18n_financials.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseFinancials/src/web/javascript/lang/en/en_financials.js
+
+moduleName=BaseIntranet
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseIntranet/src/buildconfig/etc/properties/i18n/en/i18n_intranet.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseIntranet/src/web/javascript/lang/en/en_intranet.js
+
+moduleName=BaseLibrary
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseLibrary/src/buildconfig/etc/properties/i18n/en/i18n_customFields.properties
+JavaScript Files:
+(No JavaScript language files found)
+
+moduleName=BaseInsights
+Properties Files:
+(No properties files - uses JSON format)
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/BaseInsights/src/assets/i18n/en.json
+
+moduleName=CommonLibrary
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/buildconfig/etc/properties/i18n/en/i18n_common.properties
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/buildconfig/etc/properties/i18n/en/i18n_ll.properties
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/buildconfig/etc/properties/i18n/en/i18n_rm.properties
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/buildconfig/etc/properties/i18n/en/i18n_zip.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/web/javascript/lang/en/en_admin.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/web/javascript/lang/en/en_ll.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/web/javascript/lang/en/en_optimize.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/web/javascript/lang/en/en_options.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/web/javascript/lang/en/en_rm.js
+
+moduleName=Audit
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/audit/buildconfig/etc/properties/i18n/en/i18n_audit.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/audit/web/javascript/lang/en/en_audit.js
+
+moduleName=Fim
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/fim/buildconfig/etc/properties/i18n/en/i18n_fim.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/fim/web/javascript/lang/en/en_fim.js
+
+moduleName=Fs
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/fs/buildconfig/etc/properties/i18n/en/i18n_dashboard.properties
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/fs/buildconfig/etc/properties/i18n/en/i18n_fs.properties
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/fs/buildconfig/etc/properties/i18n/en/i18n_ufoc.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/fs/web/javascript/lang/en/en_dashboard.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/fs/web/javascript/lang/en/en_dBoard.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/fs/web/javascript/lang/en/en_fs.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/fs/web/javascript/lang/en/en_ufoc.js
+
+moduleName=Site
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/site/buildconfig/etc/properties/i18n/en/i18n_site.properties
+JavaScript Files:
+(No JavaScript language files found)
+
+moduleName=Smartconnect
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/smartconnect/buildconfig/etc/properties/i18n/en/i18n_smartconnect.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/smartconnect/web/javascript/lang/en/en_smartconnect.js
+
+moduleName=Storeopener
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/storeopener/buildconfig/etc/properties/i18n/en/i18n_storeopener.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/storeopener/web/javascript/lang/en/en_sm.js
+
+moduleName=Support
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/support/buildconfig/etc/properties/i18n/en/i18n_support.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/support/web/javascript/lang/en/en_support.js
+
+moduleName=Training
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/training/buildconfig/etc/properties/i18n/en/i18n_training.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/training/web/javascript/lang/en/en_training.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/training/web/static/images/Training/training/Green/en.js
+
+moduleName=Zcubator-Admaker
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/admaker/buildconfig/etc/properties/i18n/en/i18n_admaker.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/admaker/web/javascript/lang/en/en_admaker.js
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/admaker/web/javascript/lang/en/en_adMaker.js
+
+moduleName=Zcubator-marketing-center
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/marketing-center/buildconfig/etc/properties/i18n/en/i18n_fb.properties
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/marketing-center/buildconfig/etc/properties/i18n/en/i18n_marketing-center.properties
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/marketing-center/buildconfig/etc/properties/i18n/en/i18n_md.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/marketing-center/web/javascript/lang/en/en_zcubator.js
+
+moduleName=Zcubator-ppc
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/ppc/buildconfig/etc/properties/i18n/en/i18n_ppc.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/ppc/web/javascript/lang/en/en_ppc.js
+
+moduleName=Zcubator-supplies
+Properties Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/supplies/buildconfig/etc/properties/i18n/en/i18n_supplies.properties
+JavaScript Files:
+/home/harsh.yadav@ad.franconnect.com/git/fcsky/Zcubator/supplies/web/javascript/lang/en/en_supplies.js
+
+
+moduleName=The Hub
+Properties File: /home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/buildconfig/etc/properties/i18n/en/i18n_common.properties
+JavaScript File: /home/harsh.yadav@ad.franconnect.com/git/fcsky/CommonLibrary/src/web/javascript/lang/en/en_admin.js
+
+moduleName=Visits VO
+Properties File: /home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/audit/buildconfig/etc/properties/i18n/en/i18n_audit.properties
+JavaScript File: /home/harsh.yadav@ad.franconnect.com/git/fcsky/FranConnect/audit/web/javascript/lang/en/en_audit.js

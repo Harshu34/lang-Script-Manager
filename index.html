@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Script Manager</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <i class="fas fa-language header-icon"></i>
+                <h1>Language Script Manager</h1>
+                <p>Select modules and manage language files</p>
+                <button id="refreshBtn" class="refresh-btn" onclick="location.reload(true)">
+                    <i class="fas fa-sync-alt"></i>
+                    Refresh Data
+                </button>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <div class="card">
+                <div class="form-group">
+                    <label for="moduleSelect" class="form-label">
+                        <i class="fas fa-cube"></i>
+                        Module Name
+                    </label>
+                    <select id="moduleSelect" class="form-select">
+                        <option value="">Select a module...</option>
+                    </select>
+                </div>
+
+                <div class="file-type-section">
+                    <label class="form-label">
+                        <i class="fas fa-file-code"></i>
+                        File Type
+                    </label>
+                    <div class="file-type-buttons">
+                        <button class="file-type-btn active" data-type="properties">
+                            <i class="fas fa-cog"></i>
+                            Properties Files
+                        </button>
+                        <button class="file-type-btn" data-type="javascript">
+                            <i class="fab fa-js-square"></i>
+                            JavaScript Files
+                        </button>
+                    </div>
+                </div>
+
+                <div class="files-section" id="filesSection" style="display: none;">
+                    <label class="form-label">
+                        <i class="fas fa-folder-open"></i>
+                        Available Files
+                    </label>
+                    <div class="files-list" id="filesList">
+                        <!-- Files will be populated here -->
+                    </div>
+                </div>
+
+                <div class="selected-file-section" id="selectedFileSection" style="display: none;">
+                    <label class="form-label">
+                        <i class="fas fa-check-circle"></i>
+                        Selected File
+                    </label>
+                    <div class="selected-file-display" id="selectedFileDisplay">
+                        <!-- Selected file will be shown here -->
+                    </div>
+                </div>
+
+                <div class="key-value-section" id="keyValueSection" style="display: none;">
+                    <label class="form-label">
+                        <i class="fas fa-key"></i>
+                        Key-Value Pairs
+                    </label>
+                    <div class="key-value-input-container">
+                        <textarea id="keyValueInput" class="key-value-textarea" 
+                                placeholder=""
+                                rows="8"></textarea>
+                        <div class="key-value-help">
+                            <i class="fas fa-info-circle"></i>
+                            <span id="formatHelp">Enter one key-value pair per line in the format: KEY_NAME=Value</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="action-section">
+                    <button id="saveBtn" class="save-btn" disabled>
+                        <i class="fas fa-save"></i>
+                        Save Selection & Update Language Files
+                    </button>
+                </div>
+            </div>
+        </main>
+
+        <div class="status-bar" id="statusBar">
+            <div class="status-content">
+                <i class="fas fa-info-circle"></i>
+                <span id="statusText">Ready to select module and file</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
